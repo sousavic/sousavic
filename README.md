@@ -11,5 +11,5 @@ This repository gathers scripts and projects I developed during my master’s an
 [This profile is currently under construction! 02/2025]
 
 
-Check out my [Portfolio](https://sousavic.github.io/projects/) for all of my projects, micro-projects, skills, certificates, and achievements. 
+Check out my [Portfolio](https://github.com/sousavic/Environmental-Data-Modeling) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
