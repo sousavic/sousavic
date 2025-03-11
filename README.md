@@ -2,7 +2,7 @@
 
 ### Hi there! Welcome to my Github Profile! 👋
 
-📌 About Me
+📌 About Me:
 I have a strong background in statistics and programming, acquired throughout my academic journey as a scientist in the field of ecology. I have worked with multivariate analyses, predictive modeling, and handling large datasets, applying quantitative methods to solve complex problems.
 
 🚀 What Will You Find Here?
